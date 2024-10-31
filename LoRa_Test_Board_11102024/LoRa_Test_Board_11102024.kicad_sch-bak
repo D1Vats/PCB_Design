@@ -1,0 +1,475 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f274131a-e1ed-42df-97df-cac078e17fbc")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 171.45 44.45) (xy 176.53 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "1065f6ad-5d67-49b4-9626-1735dc7c2c68")
+	)
+	(wire
+		(pts
+			(xy 116.84 30.48) (xy 121.92 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "14590122-a61b-41a0-a810-41d7994ea8d6")
+	)
+	(wire
+		(pts
+			(xy 116.84 45.72) (xy 121.92 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "1623f4bd-87e5-4333-91c1-653d717b684e")
+	)
+	(wire
+		(pts
+			(xy 77.47 45.72) (xy 82.55 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "3a99b30a-e67e-4cf3-b801-d367c4ee0a68")
+	)
+	(wire
+		(pts
+			(xy 171.45 33.02) (xy 176.53 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "477928e5-0db0-4cb9-884d-c84d0bda472e")
+	)
+	(wire
+		(pts
+			(xy 22.86 33.02) (xy 27.94 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "708e1126-68cf-41bf-90d9-88a96ac5d56f")
+	)
+	(wire
+		(pts
+			(xy 116.84 35.56) (xy 121.92 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "7449e456-f47d-4884-8ef6-1e013324fe66")
+	)
+	(wire
+		(pts
+			(xy 22.86 39.37) (xy 27.94 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "7a060f00-7f36-4722-a3d0-d5546cf450c2")
+	)
+	(wire
+		(pts
+			(xy 77.47 39.37) (xy 82.55 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "93610b01-4831-43ac-a513-42b46f2c03c4")
+	)
+	(wire
+		(pts
+			(xy 22.86 45.72) (xy 27.94 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "a19f5e5d-69f0-41aa-a307-e1d854a29150")
+	)
+	(wire
+		(pts
+			(xy 77.47 33.02) (xy 82.55 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 255 1)
+		)
+		(uuid "ba45bdbc-a1f0-468c-a903-0ac39f7bceea")
+	)
+	(wire
+		(pts
+			(xy 116.84 40.64) (xy 121.92 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "decb6bcb-87ca-4428-8881-70f15cb2e6cd")
+	)
+	(label "ST_Link_VDD"
+		(at 116.84 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "02b6f6aa-b6a8-4450-815c-64ff3c30b0af")
+	)
+	(label "LoRa_Current_Sense_VIN"
+		(at 82.55 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cedd240-1df9-4051-ad70-f9852ccf7c08")
+	)
+	(label "SX_!RST"
+		(at 82.55 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "42640fcc-a7a2-43ef-988a-755b71e4f933")
+	)
+	(label "Brd_Current_Sense_VIN_1"
+		(at 176.53 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e79bd1d-a96b-47c7-bfce-852f995d12f9")
+	)
+	(label "VDD"
+		(at 116.84 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "a1f73298-f0b5-44b2-8074-d3f6da2c533b")
+	)
+	(label "VDD_MCU"
+		(at 116.84 30.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "a9842dd8-58dd-410a-963f-bf188e4ac4a7")
+	)
+	(label "SX_IO0"
+		(at 82.55 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "bee16481-3883-464e-9561-f8a0d8ccf37f")
+	)
+	(label "VDD_MCU"
+		(at 22.86 33.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "da658153-bef1-42db-9675-9707b2e8766c")
+	)
+	(label "Brd_Current_Sense_VIN_2"
+		(at 176.53 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 255 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "e19943eb-cd59-4174-aaa9-a9eaaab30a9f")
+	)
+	(label "USB_VIN"
+		(at 116.84 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "e63327ca-e137-4584-9d63-456d022ce927")
+	)
+	(sheet
+		(at 121.92 22.86)
+		(size 49.53 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.635)
+			(type solid)
+			(color 150 0 0 1)
+		)
+		(fill
+			(color 0 216 0 1.0000)
+		)
+		(uuid "07333028-cfc6-40ec-8ccb-a93fb02d4d6a")
+		(property "Sheetname" "Power Supply"
+			(at 121.92 21.9071 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply_Schema.kicad_sch"
+			(at 121.92 55.4359 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Brd_Current_Sense_VIN_2" output
+			(at 171.45 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify right)
+			)
+			(uuid "50f18fdf-aeab-4031-9783-7339be1e6ab2")
+		)
+		(pin "VDD_MCU" output
+			(at 121.92 30.48 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 0 0 1)
+				)
+				(justify left)
+			)
+			(uuid "e3c0b9fd-9142-4b29-a8a0-de77e739e865")
+		)
+		(pin "ST_Link_VDD" input
+			(at 121.92 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 0 0 1)
+				)
+				(justify left)
+			)
+			(uuid "06371f67-8b82-4841-a585-6f7587a76e4e")
+		)
+		(pin "Brd_Current_Sense_VIN_1" output
+			(at 171.45 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify right)
+			)
+			(uuid "d921ce0b-a7cf-436c-9c17-ad79f10bf3ea")
+		)
+		(pin "USB_VIN" input
+			(at 121.92 40.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 0 0 1)
+				)
+				(justify left)
+			)
+			(uuid "4bb0c669-d67f-48c6-931e-ddb5e6c8ab6e")
+		)
+		(pin "VDD" output
+			(at 121.92 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 0 0 1)
+				)
+				(justify left)
+			)
+			(uuid "c38cdbf1-646a-462e-931a-c6e464b517f8")
+		)
+		(instances
+			(project "LoRa_Test_Board_11102024"
+				(path "/f274131a-e1ed-42df-97df-cac078e17fbc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 22.86)
+		(size 49.53 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.635)
+			(type solid)
+			(color 150 0 0 1)
+		)
+		(fill
+			(color 0 216 0 1.0000)
+		)
+		(uuid "c03c6f76-c050-422b-a0d5-1354ea71a3f6")
+		(property "Sheetname" "SX1276"
+			(at 27.94 21.9071 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LoraSchema.kicad_sch"
+			(at 27.94 55.4359 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VDD_LoRa" input
+			(at 27.94 33.02 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 0 0 1)
+				)
+				(justify left)
+			)
+			(uuid "cb2740e9-f765-4857-993d-a29dd5a2b30b")
+		)
+		(pin "!CTRL_OR_VDD" input
+			(at 27.94 39.37 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify left)
+			)
+			(uuid "abf0dce2-1dcf-4ded-839f-ced438a0175a")
+		)
+		(pin "CTRL" input
+			(at 27.94 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify left)
+			)
+			(uuid "1f94011a-d352-4eff-8676-36b34faebef0")
+		)
+		(pin "SX_!RST" input
+			(at 77.47 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify right)
+			)
+			(uuid "28f2f3bb-b1c6-45b8-86b1-4a03e58ad30e")
+		)
+		(pin "SX_IO0" input
+			(at 77.47 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify right)
+			)
+			(uuid "07bd5438-2503-4d23-abf8-4f8020c9f372")
+		)
+		(pin "SX_Current_Sense_VIN" output
+			(at 77.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 255 1)
+				)
+				(justify right)
+			)
+			(uuid "78d800a4-cba4-46e0-aea3-bf5fd73f17d8")
+		)
+		(instances
+			(project "LoRa_Test_Board_11102024"
+				(path "/f274131a-e1ed-42df-97df-cac078e17fbc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
