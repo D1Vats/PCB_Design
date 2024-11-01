@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "B0303S-1WR2")(type "KiCad")(uri "${KIPRJMOD}/Symbols/B0303S-1WR2.kicad_sym")(options "")(descr ""))
+  (lib (name "SRP3012CC-6R8M")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SRP3012CC-6R8M.kicad_sym")(options "")(descr ""))
+  (lib (name "RACM06E-05SK_277")(type "KiCad")(uri "${KIPRJMOD}/Symbols/RACM06E-05SK_277.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV751180330PDSQR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TLV751180330PDSQR.kicad_sym")(options "")(descr ""))
+)
