@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DPS310XTSA1")(type "KiCad")(uri "${KIPRJMOD}/Symbol/DPS310XTSA1.kicad_sym")(options "")(descr ""))
+  (lib (name "IIS2MDCTR")(type "KiCad")(uri "${KIPRJMOD}/Symbol/IIS2MDCTR.kicad_sym")(options "")(descr ""))
+  (lib (name "COM-09032")(type "KiCad")(uri "${KIPRJMOD}/Symbol/COM-09032.kicad_sym")(options "")(descr ""))
+)

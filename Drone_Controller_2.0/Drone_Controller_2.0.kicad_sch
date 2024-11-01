@@ -1,0 +1,548 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6cbfa607-68ca-4977-992e-9d1f51783646")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 83.82 28.956) (xy 83.82 23.749)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a9c3686-6b97-43c7-b464-7d32e37f4cf3")
+	)
+	(wire
+		(pts
+			(xy 83.82 174.752) (xy 83.82 183.388)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d21bd5-adf0-4496-8c16-4865851b06e3")
+	)
+	(wire
+		(pts
+			(xy 150.241 183.388) (xy 150.241 153.162)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a11a042-789f-4604-8aec-80062c25826b")
+	)
+	(wire
+		(pts
+			(xy 83.82 23.749) (xy 189.992 23.749)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b630aae0-f4a8-4b25-b345-03ad84521c58")
+	)
+	(wire
+		(pts
+			(xy 189.992 23.749) (xy 189.992 45.339)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b854311a-d4f2-406b-95c2-9fdbbb64ade5")
+	)
+	(wire
+		(pts
+			(xy 150.241 153.162) (xy 190.119 153.162)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c65e403e-a751-4c5e-9e5a-16137ac78b3e")
+	)
+	(wire
+		(pts
+			(xy 83.82 183.388) (xy 150.241 183.388)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caaa6806-7dd9-4b66-9206-35388f610e30")
+	)
+	(wire
+		(pts
+			(xy 190.119 153.162) (xy 190.119 142.113)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1c84b73-f28d-40eb-9edd-fa4605e74846")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 248.412 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b0d6c60-93b9-48b2-add8-dcaf20b7ab0e")
+		(property "Reference" "H1"
+			(at 251.46 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 251.46 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+			(at 248.412 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.412 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 248.412 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Drone_Controller_2.0"
+				(path "/6cbfa607-68ca-4977-992e-9d1f51783646"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 248.412 145.415 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4938c0b1-b523-4740-8b1a-e35c5e576d97")
+		(property "Reference" "H3"
+			(at 251.46 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 251.46 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+			(at 248.412 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.412 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 248.412 145.415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Drone_Controller_2.0"
+				(path "/6cbfa607-68ca-4977-992e-9d1f51783646"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 249.047 153.543 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7dc65bad-b7ed-435e-937e-03f7bb37b272")
+		(property "Reference" "H4"
+			(at 252.095 152.908 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 252.095 155.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+			(at 249.047 153.543 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 249.047 153.543 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 249.047 153.543 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Drone_Controller_2.0"
+				(path "/6cbfa607-68ca-4977-992e-9d1f51783646"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 247.396 137.287 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c17c4225-31b1-454e-833f-b6febdcb618c")
+		(property "Reference" "H2"
+			(at 250.444 136.652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 250.444 139.192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
+			(at 247.396 137.287 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 247.396 137.287 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 247.396 137.287 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Drone_Controller_2.0"
+				(path "/6cbfa607-68ca-4977-992e-9d1f51783646"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.354 28.956)
+		(size 91.059 145.796)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "57d9c0b3-8fc1-439b-a4af-9957abb62e96")
+		(property "Sheetname" "Sheet_1"
+			(at 38.354 28.2444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Peripherals.kicad_sch"
+			(at 38.354 175.3366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GND" input
+			(at 83.82 174.752 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d8d36d81-c77f-4da1-8fe1-51d56250747d")
+		)
+		(pin "3V3_Out" input
+			(at 83.82 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "244f9942-3f30-4513-873b-292cfe8b945e")
+		)
+		(instances
+			(project "Drone_Controller_2.0"
+				(path "/6cbfa607-68ca-4977-992e-9d1f51783646"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.226 45.339)
+		(size 65.659 96.774)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bb974826-4526-4074-a562-356357e175a7")
+		(property "Sheetname" "Sheet_2"
+			(at 157.226 44.6274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32.kicad_sch"
+			(at 157.226 142.6976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "STM_VDD" input
+			(at 189.992 45.339 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a4f4b831-2007-49f8-b9fe-1869cac948d2")
+		)
+		(pin "STM_VSS" input
+			(at 190.119 142.113 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2c233330-5eeb-405f-aa96-0c1e4e7d0bde")
+		)
+		(instances
+			(project "Drone_Controller_2.0"
+				(path "/6cbfa607-68ca-4977-992e-9d1f51783646"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
