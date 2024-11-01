@@ -1,0 +1,1130 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+	(paper "A4")
+	(title_block
+		(title "Motion_Control_HMI")
+		(date "2022-05-07")
+		(company "Vashishtha Research Private Limted")
+	)
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 83.82 33.274) (xy 85.598 33.274)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04384614-f949-4d4b-9338-57b13124fe10")
+	)
+	(wire
+		(pts
+			(xy 194.056 45.974) (xy 196.088 45.974)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44857232-ea34-4af1-b957-234b47094474")
+	)
+	(wire
+		(pts
+			(xy 164.592 32.258) (xy 166.37 32.258)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5abc0f27-8ac1-4c4a-a632-25390b6cf3df")
+	)
+	(wire
+		(pts
+			(xy 194.056 34.544) (xy 196.088 34.544)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "668435cb-1780-43e7-b481-8bd7d7904616")
+	)
+	(wire
+		(pts
+			(xy 83.82 30.48) (xy 85.598 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68c55181-1666-4ccc-9265-8b999246fc8e")
+	)
+	(wire
+		(pts
+			(xy 194.056 49.53) (xy 196.088 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "787a11e8-057a-4602-a603-8b465270d62f")
+	)
+	(wire
+		(pts
+			(xy 83.82 36.068) (xy 85.598 36.068)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba38ceb0-5dee-4ab1-b0a7-8c56404748e6")
+	)
+	(wire
+		(pts
+			(xy 83.82 39.116) (xy 85.598 39.116)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baa0f38e-88ce-418d-8c0f-4d6a0ee93b5f")
+	)
+	(wire
+		(pts
+			(xy 83.82 42.418) (xy 85.598 42.418)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c092b665-b119-4372-8b04-9d9e41e6f152")
+	)
+	(wire
+		(pts
+			(xy 164.592 29.972) (xy 166.37 29.972)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc756189-cc7c-4735-9ba1-8711c9a9c849")
+	)
+	(wire
+		(pts
+			(xy 164.592 34.544) (xy 166.37 34.544)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce1771df-ceaf-42e5-a083-b6eefcaefef6")
+	)
+	(wire
+		(pts
+			(xy 194.056 41.91) (xy 196.088 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e92040-483f-41ed-a3d7-c7c0eaab8dae")
+	)
+	(wire
+		(pts
+			(xy 194.056 38.1) (xy 196.088 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e05a970b-655c-4d6c-bf6a-c84db9aaf9da")
+	)
+	(label "RXD_1_uC"
+		(at 194.056 34.544 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0463be72-049c-4f02-8294-0786b8252909")
+	)
+	(label "RXD_1_uC"
+		(at 85.598 42.418 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f95fae5-9518-42ab-9422-67cbd3efa395")
+	)
+	(label "TXD_1_uC"
+		(at 85.598 39.116 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11ddc6bc-3aef-4d7a-86ce-4c6da7b933ac")
+	)
+	(label "TXD_1_uC"
+		(at 194.056 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "23391b67-566c-4872-b65c-d1041b562b89")
+	)
+	(label "3.3V_out"
+		(at 166.37 34.544 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2bd4caeb-f6bf-48ba-b142-1ac817b150ad")
+	)
+	(label "3.3V_out"
+		(at 85.598 36.068 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6268342e-444f-4626-893c-1ef35802dbe6")
+	)
+	(label "5V_out"
+		(at 85.598 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6f761bba-1369-48b7-9b0c-e1a59e306097")
+	)
+	(label "5V_out"
+		(at 166.37 29.972 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7298215e-7c5d-4566-9de7-94d9ce763cc8")
+	)
+	(label "GND_out"
+		(at 194.056 45.974 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9088acbc-8c41-44f0-b9bd-f3ecfd468aa6")
+	)
+	(label "3.3V_out"
+		(at 194.056 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "932f1ca4-62ec-4bad-b967-73bc169cb403")
+	)
+	(label "GND_out"
+		(at 166.37 32.258 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96d47713-3245-4ad8-8720-5a4f5c65664a")
+	)
+	(label "GND_out"
+		(at 85.598 33.274 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a874380d-4b66-4ac4-b889-f6e7d318108c")
+	)
+	(label "5V_out"
+		(at 194.056 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c65c7ac5-fd16-4de8-a585-4964b6571cb6")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 40.132 128.778 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "115ab3fc-0f17-4820-9f7c-6238e47060ac")
+		(property "Reference" "H1"
+			(at 42.672 127.8695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 42.672 130.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
+			(at 40.132 128.778 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.132 128.778 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.132 128.778 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 93.726 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e28ddc8-6f62-424e-871a-37b36753f183")
+		(property "Reference" "H8"
+			(at 96.266 137.5215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 96.266 140.2966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 93.726 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.726 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.726 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 40.5198 138.8125 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3f14607e-b5df-4843-bc41-d3207504342e")
+		(property "Reference" "H2"
+			(at 43.0598 137.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 43.0598 140.6791 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 40.5198 138.8125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 40.5198 138.8125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.5198 138.8125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 93.726 128.524 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5593ab3b-6421-48a3-bbeb-a24169dd8e79")
+		(property "Reference" "H7"
+			(at 96.266 127.6155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 96.266 130.3906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 93.726 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.726 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.726 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 75.692 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac997bd6-912d-4c5b-951e-6b017ca53df3")
+		(property "Reference" "H6"
+			(at 78.232 137.5215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 78.232 140.2966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
+			(at 75.692 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 75.692 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 75.692 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 57.8322 138.5368 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b33b18f8-aa94-4a60-bf88-916bdc3ca6d3")
+		(property "Reference" "H3"
+			(at 60.3722 137.6283 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 60.3722 140.4034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
+			(at 57.8322 138.5368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.8322 138.5368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 57.8322 138.5368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 75.692 128.524 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5689cdf-fdf6-470e-92fe-3533cd155f64")
+		(property "Reference" "H5"
+			(at 78.232 127.6155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 78.232 130.3906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 75.692 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 75.692 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 75.692 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 57.912 128.524 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f15d11fe-4ea4-43d1-bb16-f6b2274ea184")
+		(property "Reference" "H4"
+			(at 60.452 127.6155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 60.452 130.3906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
+			(at 57.912 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.912 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 57.912 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.172 25.146)
+		(size 58.42 32.004)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "181c7584-ae32-422d-87fd-661f54103fc3")
+		(property "Sheetname" "Power_Supply"
+			(at 106.172 24.4344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply.kicad_sch"
+			(at 106.172 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GND_out" output
+			(at 164.592 32.258 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "481b3dc1-5f0d-4f1c-ab66-264b66d96c8f")
+		)
+		(pin "5V_out" output
+			(at 164.592 29.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d652ccc8-1604-4cd7-8e1d-f6d271cae5b6")
+		)
+		(pin "3.3V_out" output
+			(at 164.592 34.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "65d9a275-579d-4c19-909f-6f241cf9792b")
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 196.088 25.654)
+		(size 59.182 32.004)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "63a5dfdd-b8cc-4562-a18a-aec74f0c389a")
+		(property "Sheetname" "Microcontroller"
+			(at 196.088 24.9424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 196.088 58.2426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TXD_1_usb" output
+			(at 196.088 34.544 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "dae7630c-f71b-4c4c-bde0-320487916095")
+		)
+		(pin "RXD_1_usb" input
+			(at 196.088 38.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7d240192-d763-44c6-8381-4b0f6501955a")
+		)
+		(pin "5V_in" input
+			(at 196.088 41.91 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bb2d3dc7-59ca-4aaa-9bb8-7a792dadb9d5")
+		)
+		(pin "GND_in" input
+			(at 196.088 45.974 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b0f75bfa-4b3d-4d0c-b141-baa241c6ff6e")
+		)
+		(pin "3V_in" input
+			(at 196.088 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c68b4301-da3b-4e43-9fad-e1c815dd0fe0")
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 58.42 32.004)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb0806c5-c45a-4118-8af7-e5b803fcc588")
+		(property "Sheetname" "Peripherals"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Peripherals.kicad_sch"
+			(at 25.4 57.9886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V_in" input
+			(at 83.82 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d0fbcf8b-88c1-43a1-a208-4e581115b390")
+		)
+		(pin "3V_in" input
+			(at 83.82 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a008a54e-6f6e-48d5-b118-7083602757b5")
+		)
+		(pin "GND_in" input
+			(at 83.82 33.274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e8b7c0b4-2d60-4848-be96-a9224c958485")
+		)
+		(pin "TXD_1_out" output
+			(at 83.82 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "034cb194-900b-4b6f-b5b4-9aaad4816cbf")
+		)
+		(pin "RXD_1_in" input
+			(at 83.82 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "eb672106-31eb-4cc6-8617-60a6d99d65ec")
+		)
+		(instances
+			(project "Motion_Control_HMI"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
