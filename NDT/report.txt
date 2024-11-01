@@ -1,0 +1,252 @@
+Warning: 11:36:48: [3D File Resolver] No such path; ensure the environment var is defined
+Warning: C:\FOSSEE\KiCad\share\kicad\modules\packages3d\\Connector_PinHeader_2.54mm.3dshapes\PinHeader_1x02_P2.54mm_Vertical.wrl
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J20'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R4'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R15'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R3'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'K2'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R23'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J11'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C1'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C2'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C3'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C4'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C5'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C6'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C7'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C8'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C10'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C11'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C12'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C13'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C14'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C15'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C16'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C17'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C18'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D1'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D2'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D3'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D4'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D5'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D6'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D7'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D8'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D9'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D10'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D11'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D12'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D13'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D14'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D15'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D16'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D17'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D18'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D19'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D20'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D21'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'D22'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J1'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J2'
+Warning: 11:36:48: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J3'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J6'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J14'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J15'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J16'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J17'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J18'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J19'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J21'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J22'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J23'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J24'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J25'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J26'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J27'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J30'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J31'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J35'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'K1'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Q1'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Q2'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Q3'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Q4'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Q5'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Q6'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R1'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R2'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R5'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R6'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R7'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R10'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R11'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R12'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R16'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R17'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R20'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R21'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R24'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R25'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R26'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R27'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R28'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R29'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R30'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'SW1'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U1'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U2'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U3'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U4'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U5'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U6'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U7'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'U8'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'Y1'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'C9'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R8'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R9'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R13'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R14'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R18'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R19'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'R22'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J36'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J37'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J38'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J39'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J40'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J33'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J4'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J5'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J7'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J8'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J9'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J10'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J12'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J13'
+Warning: 11:36:49: C:/Jenkins/workspace/windows-kicad-msys2-stable/src/kicad/utils/kicad2step/pcb/oce_utils.cpp: AddComponent: 588
+Warning:   * no model defined for component 'J28'
