@@ -1,0 +1,1520 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+	(paper "A4")
+	(title_block
+		(title "Motion Control Board")
+		(date "2022-04-14")
+		(company "Vashishtha Research Private Limited")
+	)
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(polyline
+		(pts
+			(xy 166.624 47.752) (xy 167.386 47.752)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05315e7f-6059-4fa3-a5e5-d28ff198bf62")
+	)
+	(wire
+		(pts
+			(xy 89.154 55.372) (xy 91.694 55.372)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07fced30-28a1-4f7c-ba4f-dd45c2f5aeb4")
+	)
+	(wire
+		(pts
+			(xy 89.154 52.324) (xy 91.694 52.324)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1376383b-f12f-4922-aae2-8a41c62b634d")
+	)
+	(polyline
+		(pts
+			(xy 119.634 44.196) (xy 119.634 74.422)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1506cd1e-f447-4b1d-a9a4-84ecae314deb")
+	)
+	(wire
+		(pts
+			(xy 186.182 105.664) (xy 189.738 105.664)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175ddba1-a586-446f-888a-b2036458daa8")
+	)
+	(polyline
+		(pts
+			(xy 167.386 47.752) (xy 210.312 47.752)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19f622e1-81d3-425d-b8e8-e4ca8dd00bbd")
+	)
+	(polyline
+		(pts
+			(xy 64.262 44.196) (xy 65.786 44.196)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bdea12e-995b-4b7c-8859-9b9c15014327")
+	)
+	(wire
+		(pts
+			(xy 89.154 101.854) (xy 92.202 101.854)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25982857-743e-44b4-8b35-715caef56b29")
+	)
+	(polyline
+		(pts
+			(xy 64.262 74.422) (xy 64.262 44.196)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2776995c-c0a4-417e-8082-dadd4e896283")
+	)
+	(wire
+		(pts
+			(xy 89.154 49.276) (xy 91.694 49.276)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a8ca478-9cf8-4524-ba21-d6ce7cf9eac5")
+	)
+	(polyline
+		(pts
+			(xy 110.998 74.422) (xy 64.262 74.422)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e571452-7e93-4e7c-aeb6-1455c40cd5ce")
+	)
+	(wire
+		(pts
+			(xy 212.344 141.478) (xy 215.138 141.478)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5648ff7d-ae4b-44b4-87e9-ebf76c9afa47")
+	)
+	(polyline
+		(pts
+			(xy 110.49 44.196) (xy 119.634 44.196)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d6a83a-26c5-41a4-8de8-d3e3e5777dd6")
+	)
+	(wire
+		(pts
+			(xy 89.154 108.204) (xy 92.71 108.204)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "722704a3-b0a7-47f7-b47c-e58cd41c1067")
+	)
+	(wire
+		(pts
+			(xy 186.182 56.388) (xy 188.214 56.388)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72dc6bc8-fdd2-446c-a926-43274c5c1709")
+	)
+	(polyline
+		(pts
+			(xy 210.312 74.168) (xy 166.624 74.168)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75b02c82-5d62-4cb1-8aea-cd3c360d20e2")
+	)
+	(polyline
+		(pts
+			(xy 210.312 47.752) (xy 210.312 74.168)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "773734b8-21f5-469b-b721-f361d7c322af")
+	)
+	(wire
+		(pts
+			(xy 89.408 156.972) (xy 92.964 156.972)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a06a367-bcc6-4535-b7f5-879b3179d0e9")
+	)
+	(polyline
+		(pts
+			(xy 65.786 44.196) (xy 110.998 44.196)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81db6689-39e3-4be0-9b09-a9a9349deda4")
+	)
+	(wire
+		(pts
+			(xy 89.154 99.822) (xy 92.202 99.822)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85340451-c366-43fd-9b21-1fd3419d2001")
+	)
+	(wire
+		(pts
+			(xy 212.344 136.398) (xy 215.138 136.398)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f90c2be-1d26-4db6-b404-0a327fbe93dd")
+	)
+	(wire
+		(pts
+			(xy 186.182 58.674) (xy 188.214 58.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "965f7f60-e26f-4f80-b181-a72ac52733a0")
+	)
+	(wire
+		(pts
+			(xy 186.182 51.816) (xy 188.214 51.816)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "976f3841-9a2f-46a4-9a99-7f7f48c2705c")
+	)
+	(wire
+		(pts
+			(xy 89.154 105.918) (xy 92.71 105.918)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b910c7f-2658-4050-ab20-b1c595dbd5ca")
+	)
+	(wire
+		(pts
+			(xy 212.344 134.112) (xy 215.138 134.112)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cb2d070-8fab-4c72-8984-d52eee25f4a4")
+	)
+	(wire
+		(pts
+			(xy 212.344 138.938) (xy 215.138 138.938)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a41e889b-6a80-4eed-971a-da701275c33e")
+	)
+	(wire
+		(pts
+			(xy 186.182 107.95) (xy 189.992 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af28e238-c1c4-4d3c-8b83-2da2ee3d0244")
+	)
+	(wire
+		(pts
+			(xy 89.408 159.258) (xy 93.218 159.258)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b1fff6-3fc6-42a0-8c45-5f3e94ab5ca2")
+	)
+	(wire
+		(pts
+			(xy 89.154 46.482) (xy 91.694 46.482)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4b609ba-93b4-4134-9741-5d0059a758df")
+	)
+	(wire
+		(pts
+			(xy 186.182 54.102) (xy 188.214 54.102)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4b9a123-ef62-446e-92ed-ad478c0203c4")
+	)
+	(polyline
+		(pts
+			(xy 166.624 74.168) (xy 166.624 47.752)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1371ccb-a583-4d92-b330-611fe034b737")
+	)
+	(wire
+		(pts
+			(xy 89.154 58.674) (xy 91.694 58.674)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e17e2dcf-c8e6-4a75-9281-58df50c2fb38")
+	)
+	(polyline
+		(pts
+			(xy 110.998 74.422) (xy 119.634 74.422)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e29eb2ed-084f-46d5-8ed0-41320a11ffef")
+	)
+	(wire
+		(pts
+			(xy 89.154 103.886) (xy 92.71 103.886)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e52002d2-dd18-4d17-969a-9e2fc3724a41")
+	)
+	(wire
+		(pts
+			(xy 212.344 143.764) (xy 215.138 143.764)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6679e8-be2f-4ad5-bbf5-3f2ab2410324")
+	)
+	(polyline
+		(pts
+			(xy 119.634 74.422) (xy 119.634 73.914)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2dca785-595f-42fa-b98b-7cbc0ef95d56")
+	)
+	(text "Schematic here is pretty much simple. This circuit helps\nin connecting MPG pendant to the board."
+		(exclude_from_sim no)
+		(at 28.448 143.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f81f012-c387-4b7e-a754-d174ee7838d8")
+	)
+	(text "Schematic for USB programmer uses FT232RL and ADUM4160. \nThe perpose of including this on the board is to enable\nthe board to communicate with conputer.\nThe circuit design can be understood through the datas-\n-heet of the ICs."
+		(exclude_from_sim no)
+		(at 26.67 94.742 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "716c5681-6ed0-407e-890b-5db8bd8d5484")
+	)
+	(text "12V_Iso_out for input side of the \noptocoupler.\n5V_Peripherals_out for output side\nof the optocoupler.\n"
+		(exclude_from_sim no)
+		(at 171.704 72.898 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "a9616fd4-32cf-49ea-82c5-8c5e7d395b39")
+	)
+	(text "As the microcontroller used on the board has limitation\nwhen its come to supplying enough current to the drivers,\nwe have used two octal buffer ICs to provide enough current\nwithout any change in voltage."
+		(exclude_from_sim no)
+		(at 123.952 92.202 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab1908aa-b14d-48bc-9f59-703cbcaab7cf")
+	)
+	(text "Schematic for power to be supplied to the control board.\nIt takes12v input and converts it into 5v and 12v isola-\n-ted voltage output for board and limit switches respec-\n-tively. Here we are using two 5v linear voltage regulator\nand one Hi-link DC-DC isolated convertor.Please Observe \nthe schematic carefully."
+		(exclude_from_sim no)
+		(at 28.702 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.24)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "cc9dd676-a02d-4e3e-a323-2bb125cf0008")
+	)
+	(text "The schematic is designed such a way that it enables board \nto work with both tactile switches or inductive switches. \n*NOTE:- Please use PNP inductive switches.\nOptocouplers has been used to isolated the limit switch \ninputs from the microcontroller input pins."
+		(exclude_from_sim no)
+		(at 124.714 41.402 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d93ddbab-12a1-4cb4-8e58-a6532f9fd541")
+	)
+	(text "5V_uC_out is for microcontroller and USB Programmer.\n5V_Peripherals_out is for limit switch, Octal buffer\nand MPG pendant.\n12V_Iso_out for limit switch\n0V_Iso_out for limit switch"
+		(exclude_from_sim no)
+		(at 64.77 73.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "f052d539-d34c-48cc-ba5f-f318357fac48")
+	)
+	(label "GND_out"
+		(at 91.694 52.324 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10ef999c-6d12-470e-b934-e6435f63a54f")
+	)
+	(label "GND_out"
+		(at 188.214 54.102 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "13808050-3926-4d95-affe-e300bae0efe3")
+	)
+	(label "RXD_uC_0"
+		(at 212.344 141.478 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1c21eeb8-ac17-45e5-ae4d-a94263a012cb")
+	)
+	(label "12V_Iso_out"
+		(at 91.694 55.372 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a35c5d4-2e67-468b-adf0-941f85c85da8")
+	)
+	(label "5V_uC_out"
+		(at 92.202 99.822 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5519a88b-aeec-4a90-9830-94e407eed5b8")
+	)
+	(label "RST_uC"
+		(at 212.344 143.764 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5f16c44d-9ecb-40d4-82ed-50d42158e678")
+	)
+	(label "RXD_uC_0"
+		(at 92.71 103.886 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "78551cb3-346f-4df8-9558-1a1765fadd96")
+	)
+	(label "0V_Iso_out"
+		(at 91.694 58.674 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ccfc022-9120-41b9-a20a-6bd1bdc7a33e")
+	)
+	(label "5V_uC_out"
+		(at 212.344 134.112 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9d23b66e-1bb5-4a6f-9772-b8d25945affb")
+	)
+	(label "GND_out"
+		(at 189.992 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9e8dc315-ebcc-4ead-a8e0-b43d53d16374")
+	)
+	(label "0V_Iso_out"
+		(at 188.214 58.674 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a50dba93-ec8e-48ea-a617-b495f77f8e36")
+	)
+	(label "RST_uC"
+		(at 92.71 108.204 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b14d2555-7705-444d-96b9-e7eef90ce69c")
+	)
+	(label "GND_out"
+		(at 212.344 136.398 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b5df00ed-108b-4778-8bc0-64bc86e8b2ce")
+	)
+	(label "GND_out"
+		(at 92.202 101.854 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bcc57ac0-e08f-45fd-999e-db68887072bb")
+	)
+	(label "5V_Peripherals_out"
+		(at 92.964 156.972 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c76d2158-0592-4ab8-b979-bab9c2efc3e8")
+	)
+	(label "5V_uC_out"
+		(at 91.694 46.482 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfd5263f-8554-43cd-a32c-0584d53abdf8")
+	)
+	(label "5V_Peripherals_out"
+		(at 91.694 49.276 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7c12fac-cbc3-4925-9066-f952ad5d9003")
+	)
+	(label "TXD_uC_0"
+		(at 212.344 138.938 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d91b8f49-3b38-462e-9f22-00c23d89242f")
+	)
+	(label "GND_out"
+		(at 93.218 159.258 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eafbbe3f-e85d-476b-b424-074dcbaf91f3")
+	)
+	(label "12V_Iso_out"
+		(at 188.214 56.388 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4a95d80-7f6a-4f37-9fc2-d0e7cbc91544")
+	)
+	(label "5V_Peripherals_out"
+		(at 189.738 105.664 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6d63f26-74db-413e-b91d-dc4856fa089d")
+	)
+	(label "5V_Peripherals_out"
+		(at 188.214 51.816 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f94d5800-37e1-4df5-8a05-62a1f036725d")
+	)
+	(label "TXD_uC_0"
+		(at 92.71 105.918 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ffa56c03-055a-4645-9316-349a5240ab86")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 47.244 180.086 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5281d4ea-ff81-48b5-9429-fa1c71e7a56e")
+		(property "Reference" "H1"
+			(at 49.784 179.1775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 49.784 181.9526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 47.244 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 47.244 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 47.244 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 93.218 180.086 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f30d2b0-3ba8-4ded-bae2-7ef1f8755438")
+		(property "Reference" "H3"
+			(at 95.758 179.1775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 95.758 181.9526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 93.218 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.218 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.218 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 114.046 180.086 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3eb1b40-63f0-4f97-b00b-1f8746abcc24")
+		(property "Reference" "H4"
+			(at 116.586 179.1775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 116.586 181.9526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 114.046 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.046 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.046 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 71.12 180.086 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5fbd96c-e647-4c66-87b8-f0bf6e259596")
+		(property "Reference" "H2"
+			(at 73.66 179.1775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 73.66 181.9526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 71.12 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 180.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 122.174 76.454)
+		(size 64.008 38.354)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "274e8f0c-a21b-413f-a5ce-0ec59830aa9f")
+		(property "Sheetname" "Octal_Buffer"
+			(at 122.174 75.7424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Octal_Buffer.kicad_sch"
+			(at 122.174 115.3926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V_in" input
+			(at 186.182 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fc3a0af5-12dd-4277-aee1-1d3762dd4439")
+		)
+		(pin "GND_in" input
+			(at 186.182 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d7256d8c-dcbd-4372-b679-785299dd2c45")
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 127.254)
+		(size 64.008 38.354)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3f42744e-9abd-4e36-8927-e97aec35ba85")
+		(property "Sheetname" "MPG_Pendant"
+			(at 25.4 126.5424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MPG_Pendant.kicad_sch"
+			(at 25.4 166.1926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MPG_GND_IN" input
+			(at 89.408 159.258 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2469b7b5-9ec2-4d38-9fe1-8e9e2dc2bfe0")
+		)
+		(pin "MPG_5V_IN" input
+			(at 89.408 156.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "037ae34d-a269-4f9d-9daa-c6ff1580b3f3")
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 122.174 25.146)
+		(size 64.008 38.354)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3fdabe00-e71c-4452-977c-b21b6ccfa1c5")
+		(property "Sheetname" "Limit_Switch"
+			(at 122.174 24.4344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Limit_Switch.kicad_sch"
+			(at 122.174 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "0V_Iso_in" input
+			(at 186.182 58.674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9756ff3f-caff-462e-9cb0-3b777368f4f6")
+		)
+		(pin "GND_in" input
+			(at 186.182 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "912bf7ea-53b1-4ab9-90b7-5e32db34aff0")
+		)
+		(pin "12V_Iso_in" input
+			(at 186.182 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f990f9fa-a7d8-4989-a8ae-5ae63720ab64")
+		)
+		(pin "5V_limit_in" input
+			(at 186.182 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a640d4ae-7ebb-4b59-9367-4490aceabb80")
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.138 30.226)
+		(size 56.896 127.254)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4d62468c-6543-46f8-bf12-d93ef0dce046")
+		(property "Sheetname" "Microcontroller"
+			(at 215.138 29.5144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 215.138 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VCC_IN" input
+			(at 215.138 134.112 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "294ca420-94c2-4c8a-96be-f353c56cf30f")
+		)
+		(pin "GND_uC_IN" input
+			(at 215.138 136.398 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a4977b1b-bb89-4e17-97dc-d3951cd5bc7b")
+		)
+		(pin "RXD_prg_out" output
+			(at 215.138 138.938 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "82343b34-bdfd-4483-850b-d6ef8bc8454b")
+		)
+		(pin "TXD_prg_in" input
+			(at 215.138 141.478 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "010c43a2-732c-48b0-bbc7-9b5dac471893")
+		)
+		(pin "Reset_IN" input
+			(at 215.138 143.764 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cec6a5f3-8c55-4df3-b5c6-9b8ac21d0263")
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.146 25.146)
+		(size 64.008 38.354)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "75f2082b-4d7b-452b-8a4f-d706b382cdc7")
+		(property "Sheetname" "Power Supply"
+			(at 25.146 24.4344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power Supply.kicad_sch"
+			(at 25.146 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V_To_Peripherals" output
+			(at 89.154 49.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "61618935-a69c-49be-985e-528e8e99c27e")
+		)
+		(pin "GND_To_All" output
+			(at 89.154 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9afdc71b-75fd-44fe-8522-6a7c12f7b0b2")
+		)
+		(pin "12V_To_Limit_Switch" output
+			(at 89.154 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d355a39b-474e-4f06-a23e-485cf0a3bdd8")
+		)
+		(pin "0V_To_Limit_Switch" output
+			(at 89.154 58.674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ac1c7e4e-09a3-4a96-8502-07fa1f02f7f7")
+		)
+		(pin "5V_To_uC" output
+			(at 89.154 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b0f52885-ea56-4d9c-874e-233e54e8d5a1")
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.146 76.708)
+		(size 64.008 38.354)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f8c76d0-f570-4cb0-bbdb-f5dc2e1a024c")
+		(property "Sheetname" "USB_Programmer"
+			(at 25.146 75.9964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_Programmer.kicad_sch"
+			(at 25.146 115.6466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GND_in" input
+			(at 89.154 101.854 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9b47446d-598d-4c5d-b10d-6071e740f3b1")
+		)
+		(pin "RXD_uc" output
+			(at 89.154 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e5018924-d9eb-4502-bab1-45bed9ba11dc")
+		)
+		(pin "TXD_uc" input
+			(at 89.154 105.918 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fe398adf-0801-4345-8d99-4b959a628f7b")
+		)
+		(pin "RESET_uC" input
+			(at 89.154 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "12f4679d-e96d-4388-b203-488207138418")
+		)
+		(pin "5V_USB_in" input
+			(at 89.154 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a50f0aeb-5c01-45f9-b60e-5e440c729ac3")
+		)
+		(instances
+			(project "Motion_Control_Board2.0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

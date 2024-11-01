@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Motion_Control_Board2")(type "KiCad")(uri "${KIPRJMOD}/Motion_Control_Board2.pretty")(options "")(descr ""))
+  (lib (name "Hi-Link")(type "KiCad")(uri "${KIPRJMOD}/Hi-Link.pretty")(options "")(descr ""))
+)
