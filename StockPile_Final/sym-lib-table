@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name StockPile_Final-rescue)(type Legacy)(uri ${KIPRJMOD}/StockPile_Final-rescue.lib)(options "")(descr ""))
+)
