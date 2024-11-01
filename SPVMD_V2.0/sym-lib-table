@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name StockPile_Final-rescue)(type Legacy)(uri ${KIPRJMOD}/StockPile_Final-rescue.lib)(options "")(descr ""))
+  (lib (name IMU_Sensor)(type Legacy)(uri ${KIPRJMOD}/IMU_Sensor.lib)(options "")(descr ""))
+)
